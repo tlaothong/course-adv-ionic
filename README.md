@@ -24,7 +24,9 @@ Advanced Ionic: Course Companion
     * Workshop: Creating a Deplyable App
 * Push Notifications
     * Demo: Push Notifications
-    * - Code to activate after noti
+    * Code to activate after noti
 * Testing
     * Workshop: Unit-Testing an Ionic App
     * Workshop: End-to-End Testing an Ionic App
+
+> QR scanner that can use camera or browse file from gallery.
